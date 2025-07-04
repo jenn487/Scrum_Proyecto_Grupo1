@@ -19,7 +19,8 @@ Producto {
 La tabla mostrará un listado de todos los productos registrados en el sistema, 
 permitiendo acceder a las funciones de Agregar, Editar y Eliminar.
 
-![Tabla Contenido](./Diseños/Tabla contenido.png)
+![Tabla Contenido](./Diseños/Tabla%20contenido.png)
+
 
 
 ##Funcionalidad: Eliminar Producto
