@@ -19,7 +19,7 @@ Producto {
 La tabla mostrará un listado de todos los productos registrados en el sistema, 
 permitiendo acceder a las funciones de Agregar, Editar y Eliminar.
 
-![Tabla Contenido](./diseños/Tabla contenido.png)
+![Tabla Contenido](./Diseños/Tabla contenido.png)
 
 
 ##Funcionalidad: Eliminar Producto
@@ -31,7 +31,7 @@ El primer campo será para que el usuario escriba el ID del producto.
 Luego de que el usuario ingrese el ID, automáticamente aparecerá el nombre del 
 producto en el segundo campo ("Nombre del producto"), para confirmar la eliminación.
 
-![Formulario eliminar](./diseños/Formulario-eliminar.png)
+![Formulario eliminar](./Diseños/Formulario-eliminar.png)
 
 ##Funcionalidad: Agregar Producto
 
@@ -45,7 +45,7 @@ El campo ID puede ser generado automáticamente por el sistema.
 
 Deben incluirse botones para Guardar y Cancelar.
 
-![Formulario agregar](./diseños/Formulario-agregar.png)
+![Formulario agregar](./Diseños/Formulario-agregar.png)
 
 ##Funcionalidad: Editar Producto
 
@@ -59,7 +59,7 @@ Todos los campos pueden ser editados excepto el ID.
 
 Deben incluirse botones para Guardar cambios y Cancelar.
 
-![Formulario editar](./diseños/Formulario-editar.png)
+![Formulario editar](./Diseños/Formulario-editar.png)
 
 ##Observaciones UX/UI
 Se recomienda mostrar mensajes de error si el ID ingresado no existe.
