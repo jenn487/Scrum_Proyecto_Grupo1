@@ -1,0 +1,71 @@
+ # Documentación UX/UI - CRUD de Productos
+
+## Estructura de los Productos
+
+```json
+Producto {
+  Id: int,
+  Nombre: string,
+  Descripción: string,
+  Precio: decimal,
+  Stock: int,
+  Categoría: string,
+  Imagen: string (opcional), // este campo es opcional
+  Estado: boolean (activo/inactivo)
+}
+
+##Tabla de Contenidos de los Productos
+
+La tabla mostrará un listado de todos los productos registrados en el sistema, 
+permitiendo acceder a las funciones de Agregar, Editar y Eliminar.
+
+
+
+##Funcionalidad: Eliminar Producto
+
+Al presionar el botón Eliminar, deberá mostrarse el siguiente formulario:
+
+El primer campo será para que el usuario escriba el ID del producto.
+
+Luego de que el usuario ingrese el ID, automáticamente aparecerá el nombre del 
+producto en el segundo campo ("Nombre del producto"), para confirmar la eliminación.
+
+
+##Funcionalidad: Agregar Producto
+
+Al presionar el botón Agregar, deberá mostrarse el siguiente formulario:
+
+Todos los campos del producto estarán vacíos y disponibles para ingresar nueva información.
+
+El usuario podrá completar: Nombre, Descripción, Precio, Stock, Categoría, Imagen (opcional) y Estado.
+
+El campo ID puede ser generado automáticamente por el sistema.
+
+Deben incluirse botones para Guardar y Cancelar.
+
+
+##Funcionalidad: Editar Producto
+
+Al presionar el botón Editar, deberá mostrarse el siguiente formulario:
+
+El primer campo será para ingresar el ID del producto a editar.
+
+Una vez ingresado el ID, se deberán mostrar todos los datos del producto actual para ser editados.
+
+Todos los campos pueden ser editados excepto el ID.
+
+Deben incluirse botones para Guardar cambios y Cancelar.
+
+
+##Observaciones UX/UI
+Se recomienda mostrar mensajes de error si el ID ingresado no existe.
+
+Al eliminar o guardar, se puede mostrar una alerta de confirmación.
+
+El formulario debe ser limpio, accesible y claro, con etiquetas bien visibles.
+
+El botón "Guardar" debe estar deshabilitado hasta que el formulario esté correctamente llenado.
+
+
+
+ Creado por Maria – Rol UX/UI – Sprint CRUD de productos – Sistema de ventas.
