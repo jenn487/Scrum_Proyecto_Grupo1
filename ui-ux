@@ -1,0 +1,62 @@
+ Formulario de Ventas
+
+Este formulario corresponde a la gestión individual de productos disponibles para la venta. 
+Desde aquí se pueden agregar, editar o eliminar productos del inventario.
+
+Estructura:
+Producto {
+  Id: int,
+  Nombre: string,
+  Descripción: string,
+  Precio: decimal,
+  Stock: int,
+  Categoría: string,
+  Imagen: string (opcional),
+  Estado: boolean (activo/inactivo)
+}
+
+Funcionalidades
+Agregar
+Al presionar el botón Agregar, se desplegará un formulario con los siguientes campos obligatorios:
+
+Nombre
+Descripción
+Precio
+Stock
+Categoría
+Imagen (opcional)
+Estado
+
+El ID se generará automáticamente por el sistema.
+
+Editar
+Al presionar Editar, se solicita el ID del producto a modificar.
+Luego se habilitará la edición de todos los campos excepto el ID.
+
+Eliminar
+Al presionar Eliminar, se pedirá el ID del producto. 
+Al ingresarlo, se mostrará automáticamente el nombre del producto como confirmación visual antes de su eliminación.
+
+
+Formulario de Todas las Ventas
+Este formulario permite visualizar un historial de ventas realizadas. 
+Es útil para reportes y análisis del rendimiento comercial.
+
+Formulario de Clientes
+Este formulario permite registrar, editar y eliminar la información de los clientes del sistema. 
+Es esencial para tener control sobre los compradores frecuentes y facilitar futuras gestiones.
+
+EStructura:
+Cliente {
+  Id: int,
+  NombreCompleto: string,
+  CorreoElectronico: string,
+  Telefono: string,
+  Direccion: string,
+  FechaRegistro: DateTime,
+  Estado: boolean (activo/inactivo)
+}
+
+Funcionalidades
+Agregar,Editar y Eliminar.
+
