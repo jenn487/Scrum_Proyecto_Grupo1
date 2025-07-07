@@ -1,7 +1,7 @@
 ﻿# 🧾 Sistema de Gestión de Ventas - CRUD  
 ## Proyecto Scrum - Grupo 1 | ITLA  
 
-> Proyecto universitario desarrollado en .NET MVC como parte del curso de Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA). Implementa operaciones CRUD para gestionar productos, clientes y ventas, aplicando la metodología ágil Scrum.
+> Proyecto universitario desarrollado en Windows Form como parte del curso de Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA). Implementa operaciones CRUD para gestionar productos, clientes y ventas, aplicando la metodología ágil Scrum.
 
 ---
 
