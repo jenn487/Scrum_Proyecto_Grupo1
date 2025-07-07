@@ -1,0 +1,44 @@
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapNegocio\obj\Debug\CapNegocio.pdb

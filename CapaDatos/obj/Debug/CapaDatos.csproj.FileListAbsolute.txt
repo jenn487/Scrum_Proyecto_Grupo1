@@ -1,0 +1,36 @@
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaDatos\obj\Debug\CapaDatos.pdb

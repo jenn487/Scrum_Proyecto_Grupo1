@@ -1,0 +1,88 @@
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Dashborad.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmBuscaProducto.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmLogin.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmReportes.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Frm_Clientes.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Properties.Resources.resources
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe.config
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaDatos.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaEntidad.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapNegocio.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaDatos.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaEntidad.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapNegocio.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.exe
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmFacturacion.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe.config
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\bin\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Dashborad.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmBuscaProducto.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmFacturacion.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmLogin.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmReportes.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Frm_Clientes.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe.config
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapNegocio.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\bin\Debug\CapNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Dashborad.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmBuscaProducto.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmFacturacion.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmLogin.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmReportes.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Frm_Clientes.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe.config
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.exe
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\GestiónClientesyFacturación.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapaDatos.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapaEntidad.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapNegocio.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapaDatos.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\bin\Debug\CapNegocio.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Dashborad.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmBuscaProducto.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmFacturacion.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmLogin.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.FrmReportes.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Frm_Clientes.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\GestiónClientesyFacturación.Properties.Resources.resources
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\obj\Debug\CapaPres.61CA7C38.Up2Date

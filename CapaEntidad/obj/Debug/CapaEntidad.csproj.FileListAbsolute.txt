@@ -1,0 +1,18 @@
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\1RA PENTECOSTAL\Documents\Visual Studio 2022\Projects\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Clono\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user\Downloads\GestiónClientesyFacturación\CapaEntidad\obj\Debug\CapaEntidad.pdb
